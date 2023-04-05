@@ -4,6 +4,6 @@ The goal of this project is to use the data from Woody's cafe at Rutgers Univers
 
 Outcomes from this project:
 
-Forecasted the sales of Woody’s Cafe on a daily time basis, both sales in ‘$’ and sales volume.
+Forecasted the sales of Woody’s Cafe up to 28 days into the future to efficiently manage and allocate resources
 
 Discerned the significance of a proper sliding window technique for accurate predictions in Time-series forecasting.
